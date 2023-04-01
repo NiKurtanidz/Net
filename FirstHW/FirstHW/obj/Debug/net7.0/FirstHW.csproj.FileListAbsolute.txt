@@ -1,0 +1,15 @@
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/bin/Debug/net7.0/FirstHW
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/bin/Debug/net7.0/FirstHW.deps.json
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/bin/Debug/net7.0/FirstHW.runtimeconfig.json
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/bin/Debug/net7.0/FirstHW.dll
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/bin/Debug/net7.0/FirstHW.pdb
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.csproj.AssemblyReference.cache
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.AssemblyInfoInputs.cache
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.AssemblyInfo.cs
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.csproj.CoreCompileInputs.cache
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.dll
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/refint/FirstHW.dll
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.pdb
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/FirstHW.genruntimeconfig.cache
+/Users/nkurtandize/Desktop/SMT/Course/FirstHW/FirstHW/obj/Debug/net7.0/ref/FirstHW.dll
